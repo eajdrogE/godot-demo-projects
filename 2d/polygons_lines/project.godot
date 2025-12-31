@@ -25,6 +25,10 @@ window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 window/vsync/vsync_mode=0
 
+[dotnet]
+
+project/assembly_name="2D Polygons and Lines"
+
 [rendering]
 
 renderer/rendering_method="mobile"
